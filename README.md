@@ -3,9 +3,9 @@ Teveclub teve etetése, itatása, tanítása és egyszámjátékon való tippelt
 
 # creds.ini
 Írd be a tevéd adatait az "=" jelek után, idézőjelek nélkül, kitörölve a tevenece, hivojele, egyszamtipp értékeket!
-tevenev = teveneve
-pass = hivojele
-tipp = egyszamtipp
+tevenev = teveneve \n
+pass = hivojele \n
+tipp = egyszamtipp \n
 
 # szükséges hozzá
 Python 3
