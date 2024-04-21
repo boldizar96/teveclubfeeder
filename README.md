@@ -1,16 +1,18 @@
 # teveclubfeeder
 Teveclub teve etetése, itatása, tanítása és egyszámjátékon való tippeltetése.
 
-# creds.ini
+## szükséges hozzá
+- Python 3
+- mechanicalsoup
+- configparser
+
+## creds.ini
 Írd be a tevéd adatait az "=" jelek után, idézőjelek nélkül, kitörölve a tevenece, hivojele, egyszamtipp értékeket!
-tevenev = teveneve \n
-pass = hivojele \n
-tipp = egyszamtipp \n
+tevenev = teveneve
+pass = hivojele
+tipp = egyszamtipp
 
-# szükséges hozzá
-Python 3
-mechanicalsoup
-configparser
-
-# Futtatás
+## Futtatás
+'''
 python teveclub_automation.py
+'''
