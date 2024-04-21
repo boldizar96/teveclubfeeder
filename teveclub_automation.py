@@ -1,6 +1,9 @@
 print('Start!')
 import mechanicalsoup
 import configparser
+import datetime
+
+print(datetime.datetime.now())
 
 #browser object
 browser = mechanicalsoup.StatefulBrowser()
