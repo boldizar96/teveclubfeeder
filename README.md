@@ -13,6 +13,4 @@ pass = hivojele
 tipp = egyszamtipp
 
 ## Futtatás
-'''
-python teveclub_automation.py
-'''
+> python teveclub_automation.py
