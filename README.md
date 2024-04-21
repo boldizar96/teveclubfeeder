@@ -6,3 +6,11 @@ Teveclub teve etetése, itatása, tanítása és egyszámjátékon való tippelt
 tevenev = teveneve
 pass = hivojele
 tipp = egyszamtipp
+
+# szükséges hozzá
+Python 3
+mechanicalsoup
+configparser
+
+# Futtatás
+python teveclub_automation.py
